@@ -1,2 +1,2 @@
 # playground
-Public playground for vibe-coding experiments
+Public playground for experiments
